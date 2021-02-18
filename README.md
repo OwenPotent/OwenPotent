@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owenpotent" alt="owenpotent" /></a> </p>
 
-- 🔭 I’m currently working on [Discord-bot-tutorial](https://github.com/OwenPotent/Discord-bot-tutorial)
+- 🔭 I’m currently working on [Discord-bot](https://github.com/OwenPotent/Discord-Bot)
 
 - 🌱 I’m currently learning **Javascript, HTML, Python**
 
