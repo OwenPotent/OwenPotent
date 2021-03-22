@@ -25,3 +25,5 @@
 ![Owenpotent's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenpotent&show_icons=true&theme=tokyonight)
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=owenpotent&theme=tokyonight)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=owenpotent&repo=Ovalion&show_owner=true&theme=tokyonight)](https://github.com/owenpotent/Ovalion)
