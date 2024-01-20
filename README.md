@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/OwenPotent)  
+![Profile views](https://komarev.com/ghpvc/?username=owenpotent&color=blue)  
 
 ### Hi there 👋, call me Owen!
 #### A casual developer in multiple programming languages.
